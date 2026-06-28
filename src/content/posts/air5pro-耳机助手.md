@@ -1,7 +1,7 @@
 ---
-title: Air5pro 耳机助手 — 鸿蒙平台 OPPO Enco Air5 Pro 全功能管理工具
+title: Air5pro 耳机助手 — 鸿蒙平台 OPPO Enco Air5 Pro 多功能管理工具
 published: 2026-06-28
-description: 一款运行在鸿蒙 6 平台上的 OPPO Enco Air5 Pro 蓝牙耳机管理工具。通过 SPP/RFCOMM 私有协议与耳机通信，实现电量监控、ANC 降噪控制、佩戴检测、EQ 调音、桌面卡片等全功能管理。
+description: 一款运行在鸿蒙 6 平台上的 OPPO Enco Air5 Pro 蓝牙耳机管理工具。通过 SPP/RFCOMM 私有协议与耳机通信，实现电量监控、ANC 降噪控制、佩戴检测、EQ 调音、桌面卡片等多功能管理。
 tags: [鸿蒙, HarmonyOS, 蓝牙耳机, OpenHarmony, 开源项目]
 category: 开源项目
 draft: false
@@ -11,7 +11,7 @@ image: ./images/air5pro耳机助手.avif
 
 ## 🌟 项目简介
 
-**Air5pro 耳机助手** 是一款基于鸿蒙 6 平台开发的 OPPO Enco Air5 Pro 蓝牙耳机管理工具。它通过逆向分析耳机的 **SPP/RFCOMM 私有协议**，实现了对耳机的全面管理控制，是目前鸿蒙平台上功能最完整的 Enco Air5 Pro 第三方管理工具。
+**Air5pro 耳机助手** 是一款基于鸿蒙 6 平台开发的 OPPO Enco Air5 Pro 蓝牙耳机管理工具。它通过逆向分析耳机的 **SPP/RFCOMM 私有协议**，实现了对耳机多方面管理控制，是目前鸿蒙平台上功能最完整的 Enco Air5 Pro 第三方管理工具。
 
 ::github{repo="2586221386/encoair"}
 
