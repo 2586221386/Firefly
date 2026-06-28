@@ -6,6 +6,7 @@ tags: [鸿蒙, HarmonyOS, 蓝牙耳机, OpenHarmony, 开源项目]
 category: 开源项目
 draft: false
 pinned: true
+image: ./images/air5pro耳机助手.avif
 ---
 
 ## 🌟 项目简介
