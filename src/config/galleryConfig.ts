@@ -34,6 +34,14 @@ export const galleryConfig: GalleryConfig = {
 			password: "123456",
 			passwordHint: "示例密码123456",
 		},
+		{
+			id: "本地壁纸",
+			name: "本地壁纸",
+			description: "一些竖屏二次元手机壁纸，适合作为手机桌面或锁屏壁纸使用。",
+			location: "网络收集",
+			date: "2026-03-01",
+			tags: ["壁纸", "二次元", "竖屏", "手机壁纸"],
+		},
 	],
 
 	// 瀑布流最小列宽(px)，浏览器根据容器宽度自动计算列数，默认 240
